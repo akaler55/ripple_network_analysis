@@ -1,0 +1,25 @@
+Fetching Data from: 2019-01-01   :    2019-03-01
+2019-01-01complete data fetched2019-01-06
+Number of pages Fetched  : 11
+2019-01-07complete data fetched2019-01-12
+Number of pages Fetched  : 13
+2019-01-13complete data fetched2019-01-18
+Number of pages Fetched  : 22
+2019-01-19complete data fetched2019-01-24
+Number of pages Fetched  : 14
+2019-01-25complete data fetched2019-01-30
+Number of pages Fetched  : 12
+2019-01-31complete data fetched2019-02-05
+Number of pages Fetched  : 9
+2019-02-06complete data fetched2019-02-11
+Number of pages Fetched  : 7
+2019-02-12complete data fetched2019-02-17
+Number of pages Fetched  : 6
+2019-02-18complete data fetched2019-02-23
+Number of pages Fetched  : 11
+2019-02-24complete data fetched2019-03-01
+Number of pages Fetched  : 11
+
+Fetching Data from: 2019-01-01   :    2019-03-01 
+The data fetching Stopped at :2019-02-24
+ Resume from :2019-02-24
