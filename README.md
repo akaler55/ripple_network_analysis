@@ -26,3 +26,14 @@ Running this code will give Parsed Data file for trustset transactions in .CSV f
 
 Trust lines network visualization was generated using **pyvis** module and for the analysis of the network **NetworkX** python package was used. 
 This section presents the analysis on the network generated from the trust set transactions data. We observe the top trusted wallets and currencies used in the trust transactions between the wallets. We also study the pattern of trust between two wallets. We observe pattern of transactions involved with top nodes.
+
+code filename: "Analysis_code.py"
+
+Apart from calulating network metrics using inbuilt functions of **NetworkX** we created some user functions.
+```
+various user functions used:
+transactions_graph : This function generates a transactions graph
+check_change_in_trustset : This function outputs an average time in minutes at which trust is changing between 2 accounts mentioned
+filter_transactions: This function filters the transaction data for latest transaction between accounts to get the current state of network for creating a graph
+generate_trustline_graph: This function generates a network graph using pyvis module. The graph is saved in Analysis folder
+```
